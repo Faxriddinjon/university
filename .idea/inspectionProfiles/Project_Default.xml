@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pycoin.ecdsa.generator_secp256k1" />
+          <option value="pycoin.ecdsa.sign" />
+          <option value="pycoin.ecdsa.verify" />
+          <option value="pycoin.ecdsa.possible_public_pairs_for_signature" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
